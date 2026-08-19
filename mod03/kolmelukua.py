@@ -1,0 +1,6 @@
+arvo1 = float(input("Anna ensimmäinen luku: "))
+arvo2 = float(input("Anna toinen luku: "))
+arvo3 = float(input("Anna kolmas luku: "))
+print("Lukujen summa on: " + str(arvo1 + arvo2 + arvo3))
+print("Lukujen keskiarvo on: " + str((arvo1 + arvo2 + arvo3) / 3))
+print("Lukujen tulo on: " + str(arvo1 * arvo2 * arvo3))
