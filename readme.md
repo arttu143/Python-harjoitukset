@@ -21,3 +21,11 @@ Kuha tehtävä aiheutti hieman ongelmia mutta kun aloitin alusta niin sain sen j
 ## Moduuli 5
 
 Olivat aika hankalia mutta selvisin!
+
+## Moduuli 6
+
+Tein tehtävät 1-4
+
+## Moduuli 7
+
+Tein tehtävät 1-3
