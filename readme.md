@@ -29,3 +29,8 @@ Tein tehtävät 1-4
 ## Moduuli 7
 
 Tein tehtävät 1-3
+Tein loput tehtävät
+
+## Moduuli 8
+
+Tein tehtävät 1-2
