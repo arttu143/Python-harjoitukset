@@ -34,3 +34,9 @@ Tein loput tehtävät
 ## Moduuli 8
 
 Tein tehtävät 1-2
+
+Tein tehtävä 3.
+
+## Moduuli 9
+
+Aloitin ensimmäisen tehtävän
