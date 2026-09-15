@@ -40,3 +40,5 @@ Tein tehtävä 3.
 ## Moduuli 9
 
 Aloitin ensimmäisen tehtävän
+
+Tein moduuli 9 tehtävät 1-4
