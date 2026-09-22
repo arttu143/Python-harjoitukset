@@ -46,3 +46,9 @@ Tein moduuli 9 tehtävät 1-4
 ## Moduuli 10
 
 tein tehtävät 1-3
+
+tein viimeisen tehtävän
+
+## Moduuli 11
+
+Tein tehtävät 1-2
