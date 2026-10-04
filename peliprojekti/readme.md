@@ -1,10 +1,10 @@
 # Blue summer
 **Arttu Piiroinen**
 
-24.8
+02 Kansiossa on päävalikko harjoitus, vanhaa koodia.
 
-Tein päävalikon
+03 Kansiossa on "Inventaario" harjoitus + funktio harjoitukset
 
-18.9
+04 Kansiossa on tehtävä 4 eli luokka harjoitus
 
-Kirjoitin koko asian uudestaan koska en luottanut entiseen...
+main kansiossa on lopullinen projekti!

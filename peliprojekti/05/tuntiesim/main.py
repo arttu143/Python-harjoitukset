@@ -1,0 +1,1 @@
+from .peli import pelaaja
