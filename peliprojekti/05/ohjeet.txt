@@ -1,0 +1,10 @@
+OHJEET:
+
+1 = Liiku huoneesta toiseen
+2 = Kerää huoneessa oleva esine
+3 = Näytä hallussasi olevat esineet
+4 = Tallenna peli
+5 = Lopeta peli
+
+Pelisi tallennetaan tekstitiedostoon,
+josta voit jatkaa myöhemmin.
