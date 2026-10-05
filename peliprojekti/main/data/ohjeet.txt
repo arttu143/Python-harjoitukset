@@ -1,0 +1,19 @@
+OHJEET
+
+Liikut paikasta toiseen ja teet valintoja kirjoittamalla numeron.
+
+Päävalikko:
+1. Liiku         - siirry toiseen paikkaan
+2. Kerää esine   - ota esine, joka on samassa paikassa
+3. Näytä esineet - katso, mitä kannat mukanasi
+4. Tallenna peli - tallenna tilanne
+5. Lopeta peli   - tallenna ja poistu
+6. Ohjeet        - näytä nämä ohjeet uudelleen
+
+Vinkit:
+- Joitakin esineitä tarvitset, ennen kuin pääset eteenpäin.
+- Joistakin esineistä ei ole pakko ottaa mukaan mitään, mutta ne voivat
+  auttaa sinua myöhemmin.
+- Valintasi vaikuttavat siihen, miten peli päättyy.
+
+Onnea matkaan!
