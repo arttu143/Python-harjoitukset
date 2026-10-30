@@ -7,7 +7,7 @@ python/mod11/test.py
 python/mod11/emt.py
 python/peliprojekti/main/tallennus.txt
 python/peliprojekti/main/data/__pycache__
-webdev/html/index.html
-webdev/html/contact.html
-webdev/html/products.html
-webdev/html/style.css
+webdev/html/nettisivu/index.html
+webdev/html/nettisivu/contact.html
+webdev/html/nettisivu/products.html
+webdev/html/nettisivu/style.css
