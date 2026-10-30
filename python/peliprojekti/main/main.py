@@ -1,17 +1,18 @@
-from data.esine import Esine
-from data.huone import Huone
-from data.pelaaja import Pelaaja
+from python.peliprojekti.main.data.esine import Esine
+from python.peliprojekti.main.data.huone import Huone
+from python.peliprojekti.main.data.pelaaja import Pelaaja
 
 from pathlib import Path
 import random
 import sys
 import time
 
-# Tallennustiedosto sijaitsee samassa kansiossa kuin main.py,
-# riippumatta siitä, mistä pelin käynnistää.
+#Tallennus tiedoston sijainti
+
 TALLENNUS = Path(__file__).parent / "tallennus.txt"
 
-# Pelin mahdolliset lopputulokset
+#Mahdolliset loput pelille
+
 VOITTO = "voitto"
 HAVIO = "havio"
 NEUTRAALI = "neutraali"
@@ -272,13 +273,13 @@ def nayta_loppu(tulos):
     print("==============================")
 
     if tulos == VOITTO:
-        print("        Voitit pelin!")
+        print("Voitit pelin!")
 
     elif tulos == HAVIO:
-        print("        Hävisit pelin :(")
+        print("Hävisit pelin :(")
 
     elif tulos == NEUTRAALI:
-        print("        Neutraali loppu")
+        print("Neutraali loppu")
 
     print("==============================")
 
@@ -318,7 +319,6 @@ def liiku_valikko(pelaaja, huoneet, esineet):
 
     kohde = nykyinen.uloskaynnit[indeksi][0]
 
-    # Jänistäminen: paluu kaupungista varastolle päättää pelin
     if nykyinen is huoneet["Kaupunki"] and kohde is huoneet["Varasto"]:
         print("\nJänistit etkä mennyt mielenosoitukseen, "
               "sinut potkittiin ulos Elokapinasta.")

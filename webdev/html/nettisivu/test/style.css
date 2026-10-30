@@ -1,0 +1,25 @@
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Inter',Arial,sans-serif;background:#fdf6ec;color:#1b2a30;line-height:1.5}
+h1,h2,h3{font-family:'Poppins',Arial,sans-serif}
+.page{max-width:960px;margin:0 auto;background:linear-gradient(#fff 0,#f3e3cf 100%);min-height:100vh}
+header{display:flex;justify-content:space-between;align-items:stretch;background:#0f4c5c}
+.logo{background:#e36414;color:#fff;font-family:'Poppins',sans-serif;font-weight:600;padding:20px 40px}
+nav{display:flex;align-items:center}
+nav a{color:#fff;text-decoration:none;padding:20px 28px}
+nav a:hover,nav a.active{background:#fb8b24;color:#0b2e38}
+main{padding:30px}
+.hero{position:relative}
+.hero img,.wide{width:100%;height:300px;object-fit:cover;display:block;border-radius:6px}
+.hero h1{position:absolute;top:0;left:0;right:0;text-align:center;font-size:3rem;padding-top:12px;color:#fff;text-shadow:0 2px 6px rgba(0,0,0,.5)}
+.hero img{height:340px;margin-top:0}
+.intro{text-align:center;max-width:720px;margin:24px auto}
+.cards{display:flex;gap:16px;margin-top:24px}
+.card{flex:1;background:#fff;padding:16px;border-radius:6px;box-shadow:0 2px 6px rgba(0,0,0,.12)}
+.card h2{font-size:1.2rem;margin-bottom:12px;color:#9a031e}
+.card img{width:100%;height:290px;object-fit:cover;display:block}
+.card figcaption{font-style:italic;color:#777;font-size:.85rem;margin:4px 0 10px}
+.card p{font-size:.9rem}
+.contact{display:flex;gap:30px;align-items:flex-start}
+.contact h1{color:#0f4c5c;margin-bottom:16px}
+.contact address{font-style:italic;min-width:200px}
+.contact iframe{flex:1;height:320px;border:0;border-radius:6px}
